@@ -1,10 +1,10 @@
 # Guidelines for using the Coronavirus project
 
-This project contains 1 script and 1 readme document. 
+This project contains 1 rmarkdown and 1 readme document. 
 
-The script has been loosely adapted from the guidelines by Tianzhi Wu, Erqiang Hu, Patrick Tung, Xijin Ge, Guangchuang Yu, and their R package, nCov2019 (https://github.com/GuangchuangYu/nCov2019)
+The rmarkdown has been loosely adapted from the guidelines by Tianzhi Wu, Erqiang Hu, Patrick Tung, Xijin Ge, Guangchuang Yu, and their R package, nCov2019 (https://github.com/GuangchuangYu/nCov2019)
 
-The script should be run from top down. It introduces the package, demonstrate some basic uses of it, and than plots and maps the data in various ways. 
+The rmarkdown should be run from top down. Remember to install the necessary packages (currently commented out or illustrated throught he use of libraries only).  The rmarkdown introduces the package, demonstrates some basic uses of it, and than plots and maps the data in various ways. 
 Heatmap section contains tasks that can be completed as homework:
 
 # How to cite
