@@ -13,4 +13,4 @@ If you use nCov2019, please cite the following preprint:
 Tianzhi Wu, Erqiang Hu, Xijin Ge, Guangchuang Yu. Open-source analytics tools for studying the COVID-19 coronavirus outbreak. medRxiv, 2020.02.25.20027433. doi: https://doi.org/10.1101/2020.02.25.20027433
 
 # License
-CC-by
+CC-BY-SA 4.0, see attached License.md
