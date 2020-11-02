@@ -204,7 +204,10 @@ ggplot(bc, aes(time, as.numeric(rate_dead))) +
 
 
 
-I see that my colleague was right as far as the death rates go. What is behind this difference? Was Belgium more lax about lock down? Do we see the effect of higher population density or greater proportion of aging population or simply high density of politicians?
+I see that my colleague was right as far as the death rates go. 
+What could be behind this difference? Was Belgium more lax about the spring lockdown? Were hospitals overwhelmed or were senior homes seriously compromised?  Do we see the effect of higher population density or greater proportion of aging population (or high density of politicians)?
+
+<span style="color:blue"> *Task 3: Formulate a proposition about the difference between Belgium and CZ death cases and investigate it using any data you can find.* </span>
 
 # Bibliography and other resources
 If you use `nCov2019`, please cite the following preprint:
